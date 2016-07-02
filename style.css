@@ -2301,6 +2301,7 @@ p.comment-form-comment {
 
 /* Site Generator Line */
 #site-generator {
+        display: none;
 	background: #f9f9f9;
 	border-top: 1px solid #ddd;
 	color: #666;
