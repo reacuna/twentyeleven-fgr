@@ -675,6 +675,7 @@ a:hover {
 	display: none;
 }
 #branding .only-search #searchform {
+        display: none;
 	top: 5px;
 	z-index: 1;
 }
